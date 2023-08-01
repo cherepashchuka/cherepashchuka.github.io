@@ -1,22 +1,4 @@
 import React from 'react'
-import WorkItem from './Workitem'
-
-const data = [
-    {
-        year: 2020,
-        place: 'METRO Cash & Carry',
-        title: 'Senior RPA Developer',
-        duration: '3 Years',
-        details: "Responsibilities: Gathering and analyzing business requirements for automation projects using RPA technology - Developing algorithms for process automation on the UiPath platform in accordance with the requirements of business users, if necessary writing scripts in Python / C# and SQL queries - Consulting business-customers when creating automation tasks- Support and monitoring of automated processes using RPA in a productive environment Results: - Planned schedules for robots to run under license constraints, ensuring all processes ran smoothly at the right time for the business - Over 623 incidents resolved to SLA (1 week) 98.88% and a Good rating of 98.97%"
-    },
-    {
-        year: 2019,
-        place: 'NFP',
-        title: 'RPA Developer',
-        duration: '1 Year',
-        details: ''
-    },
-]
 
 const Work = () => {
     return (

@@ -1,8 +1,5 @@
 import React, { useState } from 'react';
-import { AiOutlineMenu, AiOutlineHome, AiOutlineProject, AiOutlineMail } from 'react-icons/ai';
 import { TiThMenu } from 'react-icons/ti'
-import { BsPerson } from 'react-icons/bs';
-import { GrProjects } from 'react-icons/gr';
 import { motion, AnimatePresence, animate } from "framer-motion"
 
 const variants = {
